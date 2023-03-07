@@ -1,0 +1,25 @@
+<!DOCTYPE hmtl>
+<html lang="pt-br">
+	<head>
+	<meta charset="UTF-8">
+		<title>About us</title>
+	</head>
+	<body>
+		<header>
+			<h1>Sobre nós</h1>
+				<nav>
+					<ul>
+						<a href="Ana.html"><img src="Ana.png"></a>
+						<a href="Arthur.html"><img src="Arthur.png"></a>
+						
+					</ul>
+				</nav>
+		</header>
+		<main>
+			<section>
+				<h2>O que fazer?</h2>
+				<p>Clique nas imagens para nos conhecer!.</p>
+			</section>
+		</main>
+	</body>
+</html>
